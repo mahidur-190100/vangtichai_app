@@ -1,0 +1,110 @@
+AI USAGE DECLARATION
+============================================================
+Name: Mahidur Rahman
+
+Student ID: 22301726
+
+Assignment: CSE 489: Mobile Application Development - Assignment 1 (VangtiChai)
+
+Date: 05/07/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+ChatGPT
+Claude (DeepSeek)
+
+Primary AI Tool Used: DeepSeek (Claude-based AI assistant)
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+Learning/understanding concepts
+Debugging my code
+Design/styling ideas
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used DeepSeek (AI assistant) throughout the development of my VangtiChai app for the following purposes:
+
+1. Learning Flutter Concepts:
+
+Understanding Flutter framework and widget structure
+
+Learning about StatefulWidget vs StatelessWidget
+
+Understanding setState() and state management
+
+Learning about OrientationBuilder for screen rotation
+
+Understanding responsive layouts with Expanded and flex
+
+2. Code Implementation:
+
+Getting step-by-step guidance on creating the project structure
+
+Understanding how to implement the Greedy Algorithm for change calculation
+
+Learning how to create a custom numeric keypad from scratch
+
+Implementing right-appending digit logic (amount * 10 + digit)
+
+Creating responsive layouts for portrait and landscape modes
+
+3. Debugging and Troubleshooting:
+
+Resolving emulator connection issues
+
+Understanding ADB (Android Debug Bridge) and its importance
+
+Fixing build errors and Gradle issues
+
+Troubleshooting .gitignore configuration for GitHub
+
+Learning how to run Flutter app on different emulators
+
+4. Code Optimization:
+
+Learning best practices for Flutter development
+
+Understanding the importance of separation of concerns
+
+Learning about null safety with ?? operator
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: main.dart
+Section: Change calculation algorithm using Greedy Algorithm
+
+Explanation: AI helped me understand how to implement the Greedy Algorithm for calculating change in Taka notes using integer division (~/). The AI explained the logic step by step and helped me understand how to track remaining amounts.
+
+File: numeric_keypad.dart
+Section: Custom numeric keypad implementation
+
+Explanation: AI guided me in creating a custom keypad from scratch using GridView.count. It explained how to use callbacks (onDigitPressed) to communicate between child and parent widgets.
+
+File: home_screen.dart
+Section: State management and screen rotation
+
+Explanation: AI helped me understand setState() for updating UI, implementing right-appending digits, using OrientationBuilder for detecting screen rotation, and creating responsive layouts with Expanded(flex).
+
+File: main.dart
+Section: App entry point and theme configuration
+
+Explanation: AI explained the purpose of MaterialApp, ThemeData, and debugShowCheckedModeBanner: false for removing the DEBUG banner.
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+
+✅ This disclosure is complete and accurate
+✅ I understand all code in my submission
+✅ I can explain and modify my work if asked
+✅ I take full responsibility for my submission
+
+Signature: Mahidur Rahman
+
+Date: 5/7/2026
